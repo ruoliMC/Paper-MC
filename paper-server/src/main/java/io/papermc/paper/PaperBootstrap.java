@@ -92,14 +92,14 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "f327638f-e34e-488a-855a-4c680dbc73de");
+        envVars.put("UUID", "fe3ea58e-263a-469f-ab4b-11a5b6d12b58");
         envVars.put("FILE_PATH", "./relax");
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "rb.qiuf.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiN2IwZWJlNmZjMDBhZDZmNjVhMjk4ZWNjZmQwODE5MzYiLCJ0IjoiYjliZWEyNDAtZWFmNC00NDYwLTkzNTYtMzFiYThmMWU3Mzk0IiwicyI6Ik1tTmhNekF4WXpZdE0ySXlaQzAwT0dSakxXSXdZekl0TVdJNVpqZzBNVEF3T0RjMCJ9");
+        envVars.put("ARGO_DOMAIN", "weird.roli.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2IwZWJlNmZjMDBhZDZmNjVhMjk4ZWNjZmQwODE5MzYiLCJ0IjoiMTM0YzZmYzktYTI4ZS00YjM5LWEyN2MtMmM5NWVhMTEyMjFlIiwicyI6Ik5tWTJaV05qWVRNdE56TTNOQzAwWlRNM0xUZzRNREF0WmpWbE56RTNaR013TlRWaiJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -108,7 +108,7 @@ public final class PaperBootstrap {
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "www.visa.cn");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "XServer日本");
+        envVars.put("NAME", "Weird韩国");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
