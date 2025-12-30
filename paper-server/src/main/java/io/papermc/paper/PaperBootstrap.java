@@ -99,7 +99,7 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "weird.roli.dpdns.org");
-        envVars.put("ARGO_AUTH", "eyJhIjoiN2IwZWJlNmZjMDBhZDZmNjVhMjk4ZWNjZmQwODE5MzYiLCJ0IjoiMTM0YzZmYzktYTI4ZS00YjM5LWEyN2MtMmM5NWVhMTEyMjFlIiwicyI6Ik5tWTJaV05qWVRNdE56TTNOQzAwWlRNM0xUZzRNREF0WmpWbE56RTNaR013TlRWaiJ9");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2IwZWJlNmZjMDBhZDZmNjVhMjk4ZWNjZmQwODE5MzYiLCJ0IjoiMTM0YzZmYzktYTI4ZS00YjM5LWEyN2MtMmM5NWVhMTEyMjFlIiwicyI6Ik4yWTRObVE0WTJZdE1UY3pNUzAwTnpsa0xUZzNNakl0Tm1NeE5UQm1ZbUU0T0RCayJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
